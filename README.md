@@ -1,2 +1,28 @@
-# 0a570cfd-yoga-meditation-inventory-an
-yoga meditation professionals waste hours on spending hours building a system before you can actually use it. This fixes that.  Mobile-optimized for Notion iOS and Android — works everywhere you work. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Yoga &amp; Meditation Inventory And Asset Managem
+# Yoga & Meditation Inventory and Asset Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI5kD9z98Is4pqeM4cZK0a)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI5kD9z98Is4pqeM4cZK0a)
+
